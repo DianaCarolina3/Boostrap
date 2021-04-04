@@ -1,2 +1,2 @@
 # Boostrap
-This is a proyect of the course Boostrap
+Implementing bootstrap
